@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       colors: {
         amazonclone: {
-          background: "#EAEDED",
+          background: "#EAEEDDD",
           light_blue: "#232F3A",
           yellow: "#FEBD69",
           DEFAULT: "#131921",
